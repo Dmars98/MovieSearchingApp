@@ -1,0 +1,120 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #000080;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+  }
+  
+  .spinner {
+    height: 80px;
+    margin: auto;
+  }
+  
+  .App-intro {
+    font-size: large;
+    margin: 40px;
+    color: navy;
+    font-size: 48px;
+
+  }
+  
+  /* new css for movie component */
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .movies {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .App-header h2 {
+    margin: 0;
+  }
+  
+  .add-movies {
+    text-align: center;
+  }
+  
+  .add-movies button {
+    font-size: 16px;
+    padding: 8px;
+    margin: 0 10px 30px 10px;
+  }
+  
+  .movie {
+    padding: 10px 25px 10px 25px;
+    max-width: 25%;
+  }
+  
+  .errorMessage {
+    margin: auto;
+    font-weight: bold;
+    color: rgb(161, 15, 15);
+  }
+  
+  
+  .search {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  
+  input[type="submit"] {
+    padding: 5px;
+    background-color: transparent;
+    color: navy;
+    border: 1px solid navy;
+    border-radius: 6px;
+    width: 80px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  
+  input[type="submit"]:hover {
+    background-color: navy;
+    color: white;
+  }
+  
+  
+  .search > input[type="text"]{
+    width: 40%;
+    min-width: 170px;
+  }
+  
+  @media screen and (min-width: 694px) and (max-width: 915px) {
+    .movie {
+      max-width: 33%;
+    }
+  }
+  
+  @media screen and (min-width: 652px) and (max-width: 693px) {
+    .movie {
+      max-width: 50%;
+    }
+  }
+
+  .title{
+    text-align: center;
+    
+  }
+
+
+
+
