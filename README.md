@@ -1,6 +1,5 @@
 # Movie Search App
-This is a Movie Search web application build with React and Bootstrapp and the OMDB api.
-Time spent: 42 hours in total 
+This is a Movie Search web application build with React and Bootstrapp and the OMDB api. 
 
 ## This App enable user to:
 - [x] User can use can register for their first visit on the App for login
@@ -13,3 +12,4 @@ Time spent: 42 hours in total
 - [x] JSX
 - [x] CSS
 
+### Time spent: 42 hours in total hours
