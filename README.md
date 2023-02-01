@@ -1,15 +1,15 @@
 # Movie Search App
-This is a Movie Search web application build with React and Bootstrapp and the OMDB api. 
+This is a Movie Search web application built with React and Bootstrapp and an external API(OMDB). 
 
-## This App enable user to:
-- [x] User can use can register for their first visit on the App for login
-- [x] Eser can search movie on the movie search web application
+## This App enables user to:
+- [x] register for their first visit on the App for login
+- [x] search movie on the movie search web application
 
 ## Tech stack and features:
-- [x] React with hooks
+- [x] react with hooks
 - [x] create-react-app
-- [x] Bootstrap
+- [x] bootstrap
 - [x] JSX
 - [x] CSS
 
-### Time spent: 42 hours in total hours
+### Time spent: 42 hours.
