@@ -12,4 +12,7 @@ This is a Movie Search web application built with React and Bootstrapp and an ex
 - [x] JSX
 - [x] CSS
 
+<img src='' title='Video Walkthrough' width='' alt='Video Preview' />
+
+
 ### Time spent: 42 hours.
