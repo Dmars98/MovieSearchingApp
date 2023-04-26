@@ -12,7 +12,7 @@ This is a Movie Search web application built with React and Bootstrapp and an ex
 - [x] JSX
 - [x] CSS
 
-<img src='' title='Video Walkthrough' width='' alt='Video Preview' />
+<img src='https://github.com/Dmars98/MovieSearchingApp/blob/main/Screen%20Recording%202023-04-26%20at%209.56.34%20AM.gif' title='Video Walkthrough' width='' alt='Video Preview' />
 
 
 ### Time spent: 42 hours.
